@@ -1,0 +1,3 @@
+object Tratar_Amostra {
+
+}

@@ -4,7 +4,7 @@ ThisBuild / scalaVersion := "2.12.18"
 
 lazy val root = (project in file("."))
   .settings(
-    name := "Phising_nn_dev"
+    name := "TCC-Univesp"
   )
 libraryDependencies ++= Seq(
 //  "com.intel.analytics.bigdl" % "bigdl-assembly-spark_3.1.3" % "2.3.0",
